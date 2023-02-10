@@ -41,6 +41,8 @@ def run():
                 b += 1
                 sleep(3600)
                 return 0
+        else:
+            sleep(3600)
 
 
 
